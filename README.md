@@ -2,7 +2,7 @@
 Hey, A'm Wilmer
 
 
-<p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
+<p><em>Systems and IT Engineer. Data Base Manager. Student at Henry. Available for job opportunities 😊</br>
 </em></p>
 
 
@@ -20,7 +20,7 @@ const aboutMe = {
       },
       databases: ["Postgres", "mySQL", "SQLServer"],
    },
-   currentOccupation: ["Systems and IT Engineer. Data Base Manager. Student at Henry. Available for job opportunities."]
+   currentOccupation: ["Full Stack Developer."]
 };
 ```
 </br></br>
