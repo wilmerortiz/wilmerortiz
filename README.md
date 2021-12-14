@@ -8,23 +8,18 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   code: [Javascript, jQuery, HTML, CSS],
    technologies: {
       frontEnd: {
          js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+         css: ["Materialize", "MUI", "Bootstrap", "Material Design"]
       },
       backEnd: {
-         java: ["Spring"],
          js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
       },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
+      databases: ["Postgres", "mySQL", "SQLServer"],
    },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   currentOccupation: ["Systems and IT Engineer. Data Base Manager. Student at Henry. Available for job opportunities."], challenge: "I'm working towards being able to run a marathon.",
 };
 ```
 </br></br>
