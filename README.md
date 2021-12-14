@@ -19,7 +19,7 @@ const aboutMe = {
       },
       databases: ["Postgres", "mySQL", "SQLServer"],
    },
-   currentOccupation: ["Systems and IT Engineer. Data Base Manager. Student at Henry. Available for job opportunities."], challenge: "I'm working towards being able to run a marathon.",z
+   currentOccupation: ["Systems and IT Engineer. Data Base Manager. Student at Henry. Available for job opportunities."]
 };
 ```
 </br></br>
